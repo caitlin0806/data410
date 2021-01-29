@@ -4,6 +4,24 @@ You can use the [editor on GitHub](https://github.com/caitlin0806/data410/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+The following is python syntax (highlighted)
+```python
+import numpy as np
+import pandas as pd
+from sklearn.datasets import load_boston
+```
+The following is R syntax
+```r
+library(ggplot)
+library(car)
+library(dplyr)
+
+x <- c(1,2,3,4)
+y <- 2^x
+```
+Here we have an equation (Latex Syntax):
+$$\sqrt(2x+1)=\frac{2x}{x+1}
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
