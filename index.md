@@ -20,8 +20,8 @@ x <- c(1,2,3,4)
 y <- 2^x
 ```
 Here we have an equation (Latex Syntax):
-$$\sqrt{2x+1}=\frac{2x}{x+1}$$
-
+$\sqrt{2x+1}=\frac{2x}{x+1}$
+https://latex.codecogs.com/gif.latex?\sqrt{2x+1}=\frac{2x}{x+1}
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
