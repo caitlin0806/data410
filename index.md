@@ -20,7 +20,7 @@ x <- c(1,2,3,4)
 y <- 2^x
 ```
 Here we have an equation (Latex Syntax):
-$$\sqrt(2x+1)=\frac{2x}{x+1}
+$$\sqrt{2x+1}=\frac{2x}{x+1}$$
 
 ### Markdown
 
