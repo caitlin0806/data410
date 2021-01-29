@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/caitlin0806/data410/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Website:
+.  [Data 410](https://caitlin0806.github.io/data410)
+
 The following is python syntax (highlighted)
 ```python
 import numpy as np
